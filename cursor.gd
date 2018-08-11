@@ -3,13 +3,6 @@ extends Node2D
 # class member variables go here, for example:
 # var a = 2
 # var b = "textvar"
-export(NodePath) var left
-export(NodePath) var right
-export(NodePath) var top
-export(NodePath) var bottom
-export(NodePath) var enemy
-export(NodePath) var player
-
 
 func _ready():
 	# Called when the node is added to the scene for the first time.

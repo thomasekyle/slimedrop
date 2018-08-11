@@ -9,10 +9,20 @@ func _ready():
 	# Initialization here
 	pass
 
-#func _process(delta):
-#	# Called every frame. Delta is time since last frame.
-#	# Update game logic here.
-#	pass
+func _process(delta):
+	# Called every frame. Delta is time since last frame.
+	# Update game logic here.
+	
+	#check for input
+	#if move more cursor
+	
+	#if attack attack
+	
+	#countdown to next row
+	#countdown passed?
+	#add row
+	
+	pass
 
 func add_row():
 	#add slimes to end

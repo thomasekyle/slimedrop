@@ -11,6 +11,7 @@ right = null
 top = null
 bottom = null
 enemy = null
+player = null
 
 [node name="Sprite" type="Sprite" parent="." index="0"]
 
